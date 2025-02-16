@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/home/voynova/packages_cpp/matplotlib-cpp",
+        "/home/voynova/miniconda3/include/python3.12",
+        "/home/voynova/packages_cpp/matplotlib-cpp",
+        "/home/voynova/miniconda3/lib/python3.12/site-packages/numpy/_core/include/numpy",
+        "/home/voynova/miniconda3/lib/python3.12/site-packages/numpy/_core/include",
+        "/home/voynova/packages_cpp/self_packages",
+        "/home/voynova/packages_cpp/spectra/include"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}
